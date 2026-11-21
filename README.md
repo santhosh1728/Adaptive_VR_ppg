@@ -19,7 +19,12 @@ When the diver maintains parasympathetic vagal recovery ($0.1\text{ Hz}$ resonan
 
 ---
 
-## 📸 In-Game Screenshots & Telemetry
+## 📸 Visual Showcase & In-Game Telemetry
+
+| First-Person Diver Immersion (10M Trench) | Bioluminescent Abyssal Ecosystem (Tsaheylu Harmony) |
+| :---: | :---: |
+| ![Diver Perspective](Documentation/Images/FirstPerson_Diver_Perspective.jpg) | ![Bioluminescent Ecosystem](Documentation/Images/Bioluminescent_Reef_Ecosystem.jpg) |
+| *First-person diver view with volumetric water lighting and oceanic schooling fish* | *Bioluminescent flora, deep-sea fauna, and light god-rays activated during vagal calm* |
 
 | In-Game Bio-HUD & Telemetry | In-Situ Research Questionnaire |
 | :---: | :---: |

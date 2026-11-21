@@ -329,7 +329,7 @@ The following table provides the comprehensive specification of all physical, cl
 Raw Input: 124.0 BPM | Ratio: 1.98 | Status: DICROTIC NOTCH SUPPRESSED -> Output: 62.0 BPM | SQI: 95% [PRISTINE]
 ```
 
-![Figure 1: Telemetry Run showing Bounded Z-Score and Active DSP Filter](file:///C:/Users/SANTHOSH/.gemini/antigravity/brain/e2970e5c-39ee-42e6-87e8-84d937ee73c7/.user_uploaded/media_1795082980568_3216a130.jpg)
+![Figure 1: Telemetry Run showing Bounded Z-Score and Active DSP Filter](file:///c:/Users/SANTHOSH/My%20project%20(1)/Documentation/Images/InGame_Telemetry_DSP_Active.jpg)
 
 #### Observation 2: Resolution of Procus VR Optical Strabismus
 * *Initial Test*: Testing standard side-by-side rendering on an ultra-wide Android smartphone ($20:9$ aspect ratio, $160\text{mm}$ width) placed inside the Procus headset resulted in severe double vision (optical diplopia). The center of each eye viewport was separated by $\approx 80\text{mm}$, while the physical lenses were fixed at $64\text{mm}$, forcing user eyes to diverge unnaturally.
@@ -338,7 +338,17 @@ Raw Input: 124.0 BPM | Ratio: 1.98 | Status: DICROTIC NOTCH SUPPRESSED -> Output
 #### Observation 3: In-Situ Affective and Workload Assessment
 * *Protocol*: Upon bonding with Spirit Tree beacons ($2/2$), the system activates an in-situ virtual research tablet collecting real-time NASA-TLX workload metrics (Mental Demand, Physical Demand, Frustration) and Russell Circumplex valence/arousal coordinates:
 
-![Figure 2: In-Situ Research Questionnaire Modal](file:///C:/Users/SANTHOSH/.gemini/antigravity/brain/e2970e5c-39ee-42e6-87e8-84d937ee73c7/.user_uploaded/media_1795078397693_1a66a2da.jpg)
+![Figure 2: In-Situ Research Questionnaire Modal](file:///c:/Users/SANTHOSH/My%20project%20(1)/Documentation/Images/InSitu_Research_Questionnaire.jpg)
+
+#### Observation 4: First-Person Visual Immersion and Locomotion Fidelity
+* *Underwater Trench Traversal*: The first-person diver perspective renders volumetric sunlight caustic bands and real-time hydrodynamic schooling fish behaviors with depth markers (e.g. 10M shelf). Locomotion dynamically transitions between walking friction on seabed sand dunes and 6DOF zero-gravity hydro-swimming:
+
+![Figure 3: First-Person Diver Immersion in 10M Trench](file:///c:/Users/SANTHOSH/My%20project%20(1)/Documentation/Images/FirstPerson_Diver_Perspective.jpg)
+
+#### Observation 5: Ambient Ecological Biofeedback and Bioluminescent Flora
+* *Bio-Cybernetic Ecosystem Activation*: Under Condition C, when the diver achieves parasympathetic vagal recovery ($Z \le -0.40\sigma$ and resonance breathing at $0.1\text{ Hz}$), ambient water turbidity clears and the full bioluminescent Pandoran coral reef awakens. Glowing anemones, deep-sea jellyfish, and oceanic companions (Tulkuns / Ilus) illuminate the abyssal trench:
+
+![Figure 4: Bioluminescent Abyssal Ecosystem Activated by Vagal Calm](file:///c:/Users/SANTHOSH/My%20project%20(1)/Documentation/Images/Bioluminescent_Reef_Ecosystem.jpg)
 
 ### 8.2 Quantitative Study Comparison (Generated Clinical Datasets)
 
