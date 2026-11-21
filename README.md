@@ -5,7 +5,7 @@
 [![Target VR](https://img.shields.io/badge/VR-Procus%20SBS%20%7C%20Meta%20Quest%203-blue)]()
 [![Hardware](https://img.shields.io/badge/Hardware-ESP32%20%2B%20MAX30102%20PPG-red?logo=espressif)](https://www.espressif.com/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)]()
-[![Academic Report](https://img.shields.io/badge/Report-AM5011%20Final%20PDF-purple)](./AM5011_VR_Final_Project_Report.pdf)
+
 
 ---
 
