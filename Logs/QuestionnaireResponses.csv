@@ -1,0 +1,15 @@
+TimestampSec,DateTime,ParticipantID,Condition,MilestoneTag,SAM_Valence_1to5,SAM_Arousal_1to5,NASA_MentalDemand_1to10,NASA_PhysicalDemand_1to10,NASA_Frustration_1to10
+68.24,2026-11-09 01:45:32,P01,ConditionC_AmbientAdaptive,Beacon_1_Bonded,3,2,3,3,2
+38.15,2026-11-11 21:02:15,P01,ConditionC_AmbientAdaptive,Beacon_1_Bonded,3,2,3,3,2
+36.32,2026-11-11 21:26:33,P01,ConditionC_AmbientAdaptive,Beacon_1_Bonded,3,2,3,3,2
+473.19,2026-11-13 19:13:05,P01,ConditionC_AmbientAdaptive,Beacon_1_Bonded,3,2,3,3,2
+71.11,2026-11-13 19:30:26,P01,ConditionC_AmbientAdaptive,Beacon_1_Bonded,3,2,3,3,2
+207.40,2026-11-18 19:37:08,P01,ConditionC_AmbientAdaptive,Beacon_1_Bonded,3,2,3,3,2
+98.87,2026-11-19 11:39:27,P01,ConditionC_AmbientAdaptive,Beacon_1_Bonded,3,2,3,3,2
+541.73,2026-11-19 14:20:59,P01,ConditionC_AmbientAdaptive,Beacon_1_Bonded,3,2,3,3,2
+676.68,2026-11-19 14:26:11,P01,ConditionC_AmbientAdaptive,Beacon_2_Bonded,3,2,3,3,2
+273.94,2026-11-19 14:58:28,P01,ConditionC_AmbientAdaptive,Beacon_1_Bonded,3,2,3,3,2
+276.37,2026-11-19 16:20:22,P01,ConditionC_AmbientAdaptive,Manual_F6_Checkpoint,3,2,3,3,2
+278.68,2026-11-19 16:20:25,P01,ConditionC_AmbientAdaptive,Manual_F6_Checkpoint,3,2,3,3,2
+282.66,2026-11-19 16:20:29,P01,ConditionC_AmbientAdaptive,Manual_F6_Checkpoint,3,2,3,3,2
+1013.75,2026-11-19 16:59:07,P01,ConditionC_AmbientAdaptive,Beacon_1_Bonded,3,2,3,3,2
