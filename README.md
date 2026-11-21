@@ -184,11 +184,7 @@ $$\text{RMSSD} = \sqrt{\frac{1}{M-1} \sum_{j=1}^{M-1} (\text{IBI}_{j+1} - \text{
    * Press **Play (▶)**. The Bio-HUD will display `● SENSOR: COM3 [OK]`.
    * Rest your finger gently on the sensor and press **<kbd>B</kbd>** to calibrate your baseline!
 
----
 
-## 📑 Full Academic Documentation
-* Complete Thesis / Project Report: **[`AM5011_VR_Final_Project_Report.pdf`](./AM5011_VR_Final_Project_Report.pdf)**
-* Printable HTML Report: **[`AM5011_VR_Final_Project_Report.html`](./AM5011_VR_Final_Project_Report.html)**
 
 ---
 
