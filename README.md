@@ -1,4 +1,4 @@
-# Tsaheylu Dive-OS // Adaptive VR PPG
+# Dive-OS // Adaptive VR PPG
 ### Closed-Loop Bio-Adaptive Underwater VR Simulation with Real-Time Photoplethysmography (PPG) and Autonomic Nervous System Telemetry
 
 [![Unity 6](https://img.shields.io/badge/Unity-6000.0.6f1%20LTS-black?logo=unity)](https://unity.com/)
