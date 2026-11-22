@@ -1,11 +1,30 @@
-# Dive-OS // Adaptive VR PPG
-### Closed-Loop Bio-Adaptive Underwater VR Simulation with Real-Time Photoplethysmography (PPG) and Autonomic Nervous System Telemetry
+# Adaptive VR with Physiological Signals: Closed-Loop Bio-Adaptive Underwater VR Simulation with Real-Time Photoplethysmography (PPG) and Autonomic Nervous System Telemetry (Tsaheylu Dive-OS)
+### AM5011 — Virtual Reality (Final Project Submission and Review)
 
 [![Unity 6](https://img.shields.io/badge/Unity-6000.0.6f1%20LTS-black?logo=unity)](https://unity.com/)
 [![Target VR](https://img.shields.io/badge/VR-Procus%20SBS%20%7C%20Meta%20Quest%203-blue)]()
 [![Hardware](https://img.shields.io/badge/Hardware-ESP32%20%2B%20MAX30102%20PPG-red?logo=espressif)](https://www.espressif.com/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)]()
+[![Official Report](https://img.shields.io/badge/Report-AM5011%20Final%20PDF%20(22--Pages)-purple)](./AM5011_VR_Final_Project_Report.pdf)
+[![Demo Video](https://img.shields.io/badge/Video-1--Min%20Demo%20(Google%20Drive)-orange)](https://drive.google.com/file/d/15j3zNLEZj5b3QsvdTQahOKcY1cpgf6wF/view?usp=drive_link)
 
+---
+
+## 📋 Academic Submission Metadata
+
+| Metadata Field | Project Record |
+| :--- | :--- |
+| **Project Title** | Adaptive VR with Physiological Signals: Closed-Loop Bio-Adaptive Underwater VR Simulation with Real-Time Photoplethysmography (PPG) and Autonomic Nervous System Telemetry (Tsaheylu Dive-OS) |
+| **Student Name** | **Dhanavath Santhosh** |
+| **Roll Number** | **AM26M001** |
+| **Course** | **AM5011 — Virtual Reality (Final Project Submission and Review)** |
+| **Department & Programme** | **Department of Applied Mechanics — M.Tech Programme, IIT Madras** |
+| **Faculty Supervisor** | **Prof. Manivannan** |
+| **Student Contact** | Institutional: `am26m001@smail.iitm.ac.in` \| Personal: `dhanavathsanthosh1916@gmail.com` \| Phone: `+91 9392709150` |
+| **Date of Submission** | **November 21, 2026** |
+| **GitHub Repository** | [https://github.com/santhosh1728/Adaptive_VR_ppg](https://github.com/santhosh1728/Adaptive_VR_ppg) |
+| **1-Minute Demo Video** | [Watch Demonstration Video (Google Drive)](https://drive.google.com/file/d/15j3zNLEZj5b3QsvdTQahOKcY1cpgf6wF/view?usp=drive_link) |
+| **Project Google Drive** | [Full AM5011 Submission Folder (Google Drive)](https://drive.google.com/drive/folders/18v0XKt3Y2B2XHDonF2wBJo81JNC-5bsM?usp=drive_link) |
 
 ---
 
@@ -185,10 +204,19 @@ $$\text{RMSSD} = \sqrt{\frac{1}{M-1} \sum_{j=1}^{M-1} (\text{IBI}_{j+1} - \text{
    * Rest your finger gently on the sensor and press **<kbd>B</kbd>** to calibrate your baseline!
 
 
+## 📑 Full Academic Documentation
+* **AM5011 Final Project Report (Official 22-Page Submission PDF)**: **[`AM5011_VR_Final_Project_Report.pdf`](./AM5011_VR_Final_Project_Report.pdf)** *(1.35 MB)*
+* **Markdown Submission Report**: **[`Documentation/AM5011_VR_Final_Project_Report.md`](./Documentation/AM5011_VR_Final_Project_Report.md)**
+* **Printable HTML Report**: **[`AM5011_VR_Final_Project_Report.html`](./AM5011_VR_Final_Project_Report.html)**
+* **1-Minute Demonstration Video**: [Google Drive Video Link](https://drive.google.com/file/d/15j3zNLEZj5b3QsvdTQahOKcY1cpgf6wF/view?usp=drive_link)
+* **Complete Project Submission Folder**: [Google Drive Folder](https://drive.google.com/drive/folders/18v0XKt3Y2B2XHDonF2wBJo81JNC-5bsM?usp=drive_link)
 
 ---
 
 ## 👤 Author
-* **Santhosh M.**  
-  GitHub: [@santhosh1728](https://github.com/santhosh1728)  
-  Email: `dhanavathsanthosh1916@gmail.com`
+* **Dhanavath Santhosh** (Roll No: **AM26M001**)  
+  Department of Applied Mechanics — M.Tech Programme, IIT Madras  
+  Faculty Supervisor: **Prof. Manivannan**  
+  Institutional Email: `am26m001@smail.iitm.ac.in`  
+  Personal Email: `dhanavathsanthosh1916@gmail.com`  
+  GitHub: [@santhosh1728](https://github.com/santhosh1728)

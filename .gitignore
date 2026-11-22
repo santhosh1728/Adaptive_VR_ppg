@@ -13,6 +13,10 @@
 
 # Asset store packages
 /[Aa]ssets/AssetStoreTools*
+/[Aa]ssets/_Recovery/
+tmp/
+__pycache__/
+*.pyc
 
 # Visual Studio / Rider / VS Code
 .vs/

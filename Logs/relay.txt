@@ -837,3 +837,22 @@
 [2026-11-20T05:37:45.859Z] [INFO] log Shutdown request received from client editor-16592-22gqrc
 [2026-11-20T05:37:46.029Z] [INFO] log Unity client requested immediate shutdown - shutting down now, reason: Shutdown requested by client
 [2026-11-20T05:37:46.097Z] [INFO] log Shutdown: Initiating graceful shutdown: Shutdown requested by client
+[2026-11-22T06:48:19.801Z] [INFO] relay.startup port=9001 mcpClientPort=9002 editorPid=40516
+[2026-11-22T06:48:19.804Z] [INFO] log === RELAY SERVER STARTED === (unity-ai-relay v1.0.12-build.99)
+[2026-11-22T06:48:19.821Z] [INFO] log TLS trust: NODE_USE_SYSTEM_CA=on systemCAs=85 bundledCAs=145
+[2026-11-22T06:48:19.823Z] [INFO] log Starting relay server...
+[2026-11-22T06:48:19.825Z] [INFO] log Command line arguments: ["bun","B:/~BUN/root/relay_win.exe","--relay","--port","9001","--mcp-client-port","9002","--editor-pid","40516","--shutdown-delay","180","--log-dir","C:\\Users\\SANTHOSH\\My project (1)\\Logs"]
+[2026-11-22T06:48:19.826Z] [INFO] log Parsed config: {"port":9001,"mcpClientPort":9002,"editorPid":"40516","shutdownDelaySeconds":180}
+[2026-11-22T06:48:19.831Z] [INFO] log Initializing relay components...
+[2026-11-22T06:48:19.833Z] [INFO] log Creating RelayEditor...
+[2026-11-22T06:48:19.843Z] [INFO] log WebSocket server started
+[2026-11-22T06:48:19.853Z] [INFO] log Relay server initialization completed
+[2026-11-22T06:48:19.855Z] [INFO] log MCP Client initialized at port: 9002
+[2026-11-22T06:48:19.872Z] [WARN] log [shell-env] Shell environment did not contain a PATH variable
+[2026-11-22T06:48:19.899Z] [INFO] log Unity MCP Relay server started | Port: 9002 | Endpoints: /mcp/start-server, /mcp/stop-server, /mcp/server-status, /mcp/call-tool
+[2026-11-22T06:48:20.078Z] [INFO] log Unity client connected with ID: editor-40516-qlcdz9 (relay 1.0.12-build.99)
+[2026-11-22T06:48:20.090Z] [INFO] connection.established clientId=editor-40516-qlcdz9 port=9001
+[2026-11-22T06:48:20.521Z] [INFO] log Loaded 1 credentials from keychain
+[2026-11-22T06:56:12.900Z] [INFO] log Shutdown request received from client editor-40516-qlcdz9
+[2026-11-22T06:56:12.903Z] [INFO] log Unity client requested immediate shutdown - shutting down now, reason: Shutdown requested by client
+[2026-11-22T06:56:12.909Z] [INFO] log Shutdown: Initiating graceful shutdown: Shutdown requested by client

@@ -13,3 +13,4 @@ TimestampSec,DateTime,ParticipantID,Condition,MilestoneTag,SAM_Valence_1to5,SAM_
 278.68,2026-11-19 16:20:25,P01,ConditionC_AmbientAdaptive,Manual_F6_Checkpoint,3,2,3,3,2
 282.66,2026-11-19 16:20:29,P01,ConditionC_AmbientAdaptive,Manual_F6_Checkpoint,3,2,3,3,2
 1013.75,2026-11-19 16:59:07,P01,ConditionC_AmbientAdaptive,Beacon_1_Bonded,3,2,3,3,2
+33.80,2026-11-22 12:22:41,P01,ConditionC_AmbientAdaptive,Beacon_1_Bonded,3,2,3,3,2

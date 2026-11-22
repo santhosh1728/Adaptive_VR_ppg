@@ -7,14 +7,17 @@
 
 ## 1. Project Information
 
-* **Project Title**: **Tsaheylu Dive-OS: Closed-Loop Bio-Adaptive Underwater VR Simulation with Real-Time Photoplethysmography (PPG) and Autonomic Nervous System Telemetry**
-* **Student Name**: Santhosh M.
-* **Roll Number**: *[Insert Institutional Roll Number, e.g., AM22M001 / 2022XXXX]*
-* **Course Number & Name**: AM5011 — Virtual Reality
-* **Department & Programme**: Department of Applied Mechanics / Computer Science & Engineering, Master of Technology (M.Tech) / Dual Degree
-* **Faculty Supervisor / Course Instructor**: Prof. *[Insert Instructor Name]*
-* **Student Contact Details**: *[Insert Email, e.g., santhosh@smail.iitm.ac.in]* | Phone: *[Insert Phone Number]*
-* **Date of Submission**: November 19, 2026
+* **Project Title**: **Adaptive VR with Physiological Signals: Closed-Loop Bio-Adaptive Underwater VR Simulation with Real-Time Photoplethysmography (PPG) and Autonomic Nervous System Telemetry (Tsaheylu Dive-OS)**
+* **Student Name**: Dhanavath Santhosh
+* **Roll Number**: AM26M001
+* **Course Number & Name**: AM5011 — Virtual Reality (Final Project Submission and Review)
+* **Department & Programme**: Department of Applied Mechanics — M.Tech Programme, IIT Madras
+* **Faculty Supervisor / Course Instructor**: Prof. Manivannan
+* **Student Contact Details**: Institutional Email: `am26m001@smail.iitm.ac.in` | Personal: `dhanavathsanthosh1916@gmail.com` | Phone: `+91 9392709150`
+* **Date of Submission**: November 21, 2026
+* **GitHub Repository**: `https://github.com/santhosh1728/Adaptive_VR_ppg`
+* **Demonstration Video Link**: `https://drive.google.com/file/d/15j3zNLEZj5b3QsvdTQahOKcY1cpgf6wF/view?usp=drive_link`
+* **Project Drive Link**: `https://drive.google.com/drive/folders/18v0XKt3Y2B2XHDonF2wBJo81JNC-5bsM?usp=drive_link`
 
 ---
 
@@ -375,7 +378,8 @@ A 1-minute comprehensive demonstration video has been produced showing:
 3. Procus VR stereoscopic split-screen alignment and gyroscope head tracking.
 4. Stress-induced turbidity transitioning to crystal-clear water upon $0.1\text{ Hz}$ resonance breathing.
 5. In-situ NASA-TLX survey interaction and CSV research telemetry logging.
-* *Video Link*: `https://drive.google.com/drive/folders/1_AM5011_VR_TsaheyluDiveOS_Demo`
+* *Demonstration Video Link*: [Watch 1-Minute Demonstration Video (Google Drive)](https://drive.google.com/file/d/15j3zNLEZj5b3QsvdTQahOKcY1cpgf6wF/view?usp=drive_link)
+* *Project Drive Link*: [AM5011 Full Project Submission Folder (Google Drive)](https://drive.google.com/drive/folders/18v0XKt3Y2B2XHDonF2wBJo81JNC-5bsM?usp=drive_link)
 
 ### 9.2 Complete Deliverables Checklist
 * **Full Unity 6 Source Project**: Complete `/Assets`, `/ProjectSettings`, and `/Packages` folder hierarchy with zero external binary package dependencies.
@@ -606,5 +610,5 @@ My Drive / AM5011_Final_Project_Submission /
     └── Empirical_Telemetry_Logs.csv
 ```
 
-* **Google Drive Link**: `https://drive.google.com/drive/folders/1_AM5011_VR_TsaheyluDiveOS_Submission` *(Set to "Anyone with the link can view")*
+* **Google Drive Submission Link**: [AM5011 Full Project Submission Folder (Google Drive)](https://drive.google.com/drive/folders/18v0XKt3Y2B2XHDonF2wBJo81JNC-5bsM?usp=drive_link) *(Set to "Anyone with the link can view")*
 * **Oral Examination Preparation**: All scripts, algorithms, formulas, and parameters documented herein have been implemented and verified in the live Unity 6 engine.
